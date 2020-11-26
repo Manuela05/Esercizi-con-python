@@ -8,7 +8,9 @@ candidati.sort()
 punteggio1 = int(input("Qual è il punteggio del primo candidato? "))
 punteggio2 = int(input("E quello del secondo? "))
 print (candidati)
-if punteggio1 > punteggio2:
+if punteggio1 == punteggio2:
+    print("Pareggio!")
+elif punteggio1 > punteggio2:
     print(candidato1, ',', candidato2)
 else:
-    print(punteggio1, ',', punteggio2)
+    print(candidato2, ',', candidato1)
