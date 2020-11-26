@@ -1,8 +1,8 @@
 candidati = []
 candidato1 = input("Come si chiama il primo candidato? ")
-candidati.append(a)
+candidati.append(candidato1)
 candidato2 = input("E il secondo? ")
-candidati.append(b)
+candidati.append(candidato2)
 #str.title(candidati)
 candidati.sort()
 punteggio1 = int(input("Qual è il punteggio del primo candidato? "))
