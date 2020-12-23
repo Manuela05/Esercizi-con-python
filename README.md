@@ -1,2 +1,2 @@
 # Esercizi-con-python
-Esercizi di pagina 73
+Esercizi con python

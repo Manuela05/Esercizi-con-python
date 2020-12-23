@@ -1,3 +1,6 @@
+'''Scrivi un programma che data in ingresso una lista A contenente n parole, restituisca in output una lista B di interi che rappresentano la
+lunghezza delle parole contenute in A.'''
+
 n = int(input("Quante parole si vogliono inserire? "))
 A = []
 B = []

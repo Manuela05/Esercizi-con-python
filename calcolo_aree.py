@@ -1,3 +1,5 @@
+'''Scrivere un programma che a scelta dell'utente calcoli l'area di un quadrato, rettangolo, triangolo o cerchio.'''
+
 import math
 
 print('''Di quale figura vuoi calcolare l'area?
